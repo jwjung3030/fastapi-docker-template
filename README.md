@@ -6,8 +6,8 @@ git clone https://github.com/jwjung3030/fastapi-docker-template.git
 
 cd fastapi-docker-template
 
-# 다시 빌드 실행(백그라운드 실행)
+### 다시 빌드 실행(백그라운드 실행)
 docker compose up --build d
 
-# 재빌드 없이 실행(백그라운드 실행)
+### 재빌드 없이 실행(백그라운드 실행)
 docker compose up d
